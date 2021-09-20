@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-Raja
 - 👀 I’m interested in Web development and Machine Learning.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Open source projects on Machine Learning.
+- 🌱 I’m currently React developer.
+- 💞️ I’m looking to collaborate on Open source projects.
 - 📫 How to reach me 8886189710/avatalarajasekhar@gmail.com
 
 <!---
